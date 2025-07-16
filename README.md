@@ -67,7 +67,7 @@ A simple yet powerful project that allows users to control an LED using the **Bl
 
 ## 📸 Screenshots
 
-> (Insert screenshots or video links of your working hardware, apps, and dashboards here)
+<img width="439" height="316" alt="Image" src="https://github.com/user-attachments/assets/94b24d62-2082-422f-be65-74b2cdd90ac4" />
 
 ---
 
